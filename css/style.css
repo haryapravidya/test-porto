@@ -53,7 +53,7 @@ a{
 
 .porto2{
 	padding: 0px 0px 0px 0px;
-	margin: -30px 80px 0px 40px;
+	margin: -30px 20px 0px 0px;
 
 }
 
@@ -154,9 +154,10 @@ a{
 	
 }
 
-.imgprojek{
+.card-image{
 	width: 100%;
 	height: auto;
+	padding:5px;
 
 }
 
@@ -168,17 +169,18 @@ a{
 
 
 .heading{
-	margin-top: 40px;
-	margin-bottom: 40px
+	margin-top: 0px;
+	margin-bottom: 0px;
 }
 .heading2{
-	margin-top: -30px;
+	margin-top: 0px;
 	margin-bottom: 20px;
 	margin-left: 60px;
 }
 .heading3{
-	margin-top: 80px;
+	margin-top: 70px;
 	margin-bottom: 0px;
+	margin-right: -50px;
 }
 
 .img-sos{
@@ -194,6 +196,12 @@ a{
 .soscol{
 	display: inline-flex;
 	clear: both;
+}
+.card{
+
+width: 40rem;
+margin:0px 5px 0px 5px;	
+
 }
 
 /* For desktop: */
